@@ -1,0 +1,46 @@
+.active {
+  border: 5px solid red;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+body {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  flex-direction: column;
+  align-items: center;
+}
+h1 {
+  color: darkblue;
+}
+h3 {
+  color: darkblue;
+}
+.container {
+  text-align: center;
+  background-color: lightblue;
+  padding: 20px;
+  width: fit-content;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.main-image {
+  border: 2px solid black;
+  border-radius: 5px;
+}
+button {
+  margin: 10px;
+  padding: 5px 10px;
+  background-color: darkblue;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.thumb {
+  cursor: pointer;
+  border-radius: 5px;
+}
