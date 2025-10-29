@@ -62,7 +62,6 @@ Image-Gallery/
 
 ## 📸 Preview
 
-Example:  
 ![Image Gallery Preview](images/preview.png)
 
 ---
